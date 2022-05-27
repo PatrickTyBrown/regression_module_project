@@ -7,7 +7,7 @@
 - **Data**
     - NASDAQ Website
     - NYSE Website
-*Possible additional sources*
+- *Possible additional sources*
     - SEC Filings
     - Wikipedia
     - Twitter
@@ -21,7 +21,7 @@
     - How many players a game will have at a given time?
 - **Data**
     - Steam community hub
-*Possible additional sources*
+- *Possible additional sources*
     - Activeplayer.io
     - Twitch
     - Twitter
