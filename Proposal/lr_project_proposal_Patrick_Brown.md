@@ -1,4 +1,4 @@
-### EDA Project Proposal
+### Regression & Web Scraping Project Proposal
 
 # Covid Rates and Subway Use
 
